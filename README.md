@@ -1,1 +1,1 @@
-# CODSOFT
+A repo to store tasks for the CODSOFT virtual internship.
